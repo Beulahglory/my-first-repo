@@ -1,3 +1,4 @@
 Welcome to My First Repo
 Learning Git is going well so far.
 I added this line in the update-readme branch after deleting my-new-feature.
+It's sunny outside today. A great day to start learning
